@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-.-red)](https://www.instagram.com/nhat_tran_nhat/)
 
 
-- 🌱I’m currently researching on **Embedded System**, **Signal Processing** and **Machine Learning**.
+- 🌱I’m currently learning on **Embedded System**, **Signal Processing** and **Machine Learning**.
 - 🔥 I’m looking to collaborate on the road toward _Embedded Expert_.
 - 😍 My hobbies ar **reading** and **cooking**
 - 💌 Contact me at [tranminhnhat20022002@gmail.com](mailto:tranminhnhat20022002@gmail.com).
